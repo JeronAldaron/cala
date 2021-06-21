@@ -25,7 +25,7 @@ categories = ["game-engines", "hardware-support", "multimedia", "os"]
 
 [dependencies]
 human = {version = "0.2", optional = true} # input
-pasts = {version = "0.7", optional = true} # async
+pasts = {version = "0.8", optional = true} # async
 whoami = {version = "1.0", optional = true} # user
 wavy = {version = "0.9", optional = true} # audio
 stronghold = {version = "0.2", optional = true} # file
